@@ -1,0 +1,19 @@
+body {
+}
+
+.container {
+    display: inline-block;
+    width: 800px;
+}
+
+.left-collumn {
+    background-color: rgb(184, 31, 31);
+    width: 40%;
+    float: left;
+}
+
+.right-collumn {
+    background-color: blue;
+    width: 60%;
+    float: left;
+}
