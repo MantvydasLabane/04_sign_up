@@ -1,6 +1,6 @@
 # Sign_Up
 
-_03-Practicing_
+_04-Practicing_
 
 This project is for educational porpuses only.
 
@@ -12,7 +12,10 @@ Design: [Sign_Ups](https://cdn.discordapp.com/attachments/850245533838868480/850
 
 - Github pages
 - desktop only
-- fixed width content
+- absolute center (horizontal and vertical)
+- form
+- multi page (sign-in and forgot password page, has to bo linked between each other (in circle))
+- css blur
 
 ## Authors
 
