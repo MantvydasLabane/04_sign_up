@@ -1,0 +1,45 @@
+body {
+    background-color: #01ACC6
+}
+
+.container {
+    display: inline-block;
+    width: 800px;
+    margin-top: 150px;
+    margin-left: calc(50% - 400px);
+}
+
+.left-collumn {
+    background-color: #4734AA;
+    width: 40%;
+    float: left;
+    padding: 40px;
+    padding-bottom: 20px;
+    color: #fff;
+    box-sizing: border-box;
+
+a {
+}
+
+h1 {
+}
+
+div {
+}
+
+.right-collumn {
+    background-color: #fff;
+    width: 60%;
+    padding: 60px;
+}
+
+div {
+    display: inline-block;
+    margin-top: left;
+}
+
+input {
+}
+
+button {
+}
