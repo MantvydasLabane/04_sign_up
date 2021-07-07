@@ -1,5 +1,5 @@
 body {
-    background-color: #01ACC6
+    background-color: #44b2c8;
 }
 
 .container {
@@ -9,37 +9,26 @@ body {
     margin-left: calc(50% - 400px);
 }
 
-.left-collumn {
-    background-color: #4734AA;
+.left-column {
     width: 40%;
     float: left;
     padding: 40px;
     padding-bottom: 20px;
+    background-color: #3f52b2;
     color: #fff;
-    box-sizing: border-box;
-
-a {
 }
 
 h1 {
 }
 
-div {
+a {
+    color: #fff;
 }
 
-.right-collumn {
-    background-color: #fff;
+
+.right-column {
     width: 60%;
+    float: left;
     padding: 60px;
-}
-
-div {
-    display: inline-block;
-    margin-top: left;
-}
-
-input {
-}
-
-button {
+    background-color: #fff;
 }
