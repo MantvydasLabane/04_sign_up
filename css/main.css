@@ -11,11 +11,15 @@ body {
 
 .left-column {
     width: 40%;
+    height: 250px;
     float: left;
     padding: 40px;
     padding-bottom: 20px;
     background-color: #3f52b2;
+    background-image: url(../img/hill.jpg);
     color: #fff;
+    background-size: cover;
+    background-position: center;
 }
 
 h1 {
@@ -28,7 +32,6 @@ h1 {
 .bottom-texts > a {
     color: #fff;
 }
-
 
 .right-column {
     width: 60%;
