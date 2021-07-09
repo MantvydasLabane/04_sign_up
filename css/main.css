@@ -1,5 +1,5 @@
 body {
-    background-color: #01ACC6
+    background-color: #44b2c8;
 }
 
 .container {
@@ -9,37 +9,36 @@ body {
     margin-left: calc(50% - 400px);
 }
 
-.left-collumn {
-    background-color: #4734AA;
+.left-column {
     width: 40%;
+    height: 250px;
     float: left;
     padding: 40px;
     padding-bottom: 20px;
+    background-color: #3f52b2;
+    background-image: url(../img/hill.jpg);
     color: #fff;
-    box-sizing: border-box;
-
-a {
+    background-size: cover;
+    background-position: center;
 }
 
 h1 {
 }
 
-div {
+.bottom-texts {
+
 }
 
-.right-collumn {
-    background-color: #fff;
+.bottom-texts > a {
+    color: #fff;
+}
+
+.right-column {
     width: 60%;
+    float: left;
     padding: 60px;
+    background-color: #fff;
 }
 
-div {
-    display: inline-block;
-    margin-top: left;
-}
-
-input {
-}
-
-button {
+.close{
 }
