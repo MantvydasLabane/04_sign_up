@@ -28,7 +28,11 @@ form > .form-row > input {
     font-size: 20px;
     line-height: 30px;
     border: none;
-    border-bottom: 2px solid #ccc;
+    border-bottom: 1px solid #ccc;
+}
+
+form > .form-row > input:focus-visible {
+  outline: 2px solid #777;
 }
 
 form > .form-row > button {
@@ -41,8 +45,7 @@ form > .form-row > button {
     border-radius: 18px;
     background-color: #005dd8;
     background: rgb(35,72,212);
-    background: linear-gradient(
-    53deg, #2348d4 0%, #0265de 100%);
+    background: linear-gradient(53deg, #2348d4 0%, #0265de 100%);
     color: #fff;
     border-color: none;
 }
@@ -58,6 +61,7 @@ form > .form-row > span {
     line-height: 26px;
     padding: 5px; 
     margin-left: 5px;
+    font-size: 17px;
 }
 
 form > .form-row > a {
